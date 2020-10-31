@@ -1,6 +1,6 @@
 ## Hi there, I'm Aditia Alfiansyah <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-<img align="center" fit="fill" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<img align="center" fit="fill" alt="GIF" src="https://media1.giphy.com/media/7RFfekXuH2SLC/giphy.gif?cid=6c09b952e609d7a65a2df5a64217312e9238a5909bdfaae2&rid=giphy.gif" />
 
 
 👤 **Aditia**
